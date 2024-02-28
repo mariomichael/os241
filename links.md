@@ -14,3 +14,8 @@ permalink: LINKS/
 - [SSH by Dea Afrizal](https://youtu.be/HlSktNwxCW8?si=t2XiLyycGFxGCpHf) --- Contains an easy-to-understand explanation of SSH in everyday language. I think the video is interesting because the explanation is presented in a relaxed and informal manner, allowing listeners to learn in a more relaxed way.
 - [Work With Tarballs on Linux](https://www.networkworld.com/article/966808/working-with-tarballs-on-linux.html) It contains a concise explanation of Tarballs. This is interesting because the information is concise and very helpful for me. This is very useful for people who want to learn
 tarball quickly.
+
+## WEEK 03
+- [How to Print in C](https://www.geeksforgeeks.org/printf-in-c/) --- Tutorial on how to printf in C. This is interesting because it is very concise and an easy-to-understand tutorial.
+- [Linux File System/Structure](https://youtu.be/HbgzrKJvDRw?si=3V4fdFA_uedJiVxP) --- This video explains the sctructure of Linux file system. It is interesting because it gives a detailed explanation of each directory.
+- [File System Concept](https://youtu.be/mzUyMy7Ihk0?si=5idvdSB3VB56tC22) --- This video explains the concept of file system. I think this video is interesting because it explains the file system with more simple terms and with short amount of time, make us get it faster.
