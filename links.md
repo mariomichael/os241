@@ -19,3 +19,8 @@ tarball quickly.
 - [How to Print in C](https://www.geeksforgeeks.org/printf-in-c/) --- Tutorial on how to printf in C. This is interesting because it is very concise and an easy-to-understand tutorial.
 - [Linux File System/Structure](https://youtu.be/HbgzrKJvDRw?si=3V4fdFA_uedJiVxP) --- This video explains the sctructure of Linux file system. It is interesting because it gives a detailed explanation of each directory.
 - [File System Concept](https://youtu.be/mzUyMy7Ihk0?si=5idvdSB3VB56tC22) --- This video explains the concept of file system. I think this video is interesting because it explains the file system with more simple terms and with short amount of time, make us get it faster.
+
+## WEEK 04
+- [Pointers & Addresses in C](https://youtu.be/sjQb7TGTO9U?si=Q5GKAMuEAvKCyBFw) --- This video explains about the concept of pointers and addresses in C language. This video is interesting because it consists of code displays, visualizations, and the explanator explains in a more relaxed manner so the material is easier to understand.
+- [Linux Understanding Shared Library Files](https://youtu.be/RmdvkUWQ78g?si=aIb5QCsFqPf07HwP) --- This video explains about shared library in Linux. I found its interesting because the explanator is showing his code while explaining, makes us understand more about the technical implementation, not just the basic concept.
+- [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/). This article explains about paging. It is interesting because it has a complete explanation and many illustrations so it easier for us to understand the material.
