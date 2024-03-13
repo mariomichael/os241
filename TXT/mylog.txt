@@ -1,6 +1,22 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 60 L01 SCELE/Discord related
+ZCZC W05 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W05 20 L11 Assignment #01
+ZCZC W05 20 L12 Assignment #02
+ZCZC W05 20 L13 Assignment #03
+ZCZC W05 60 L14 Assignment #04
+ZCZC W05 45 L24 Scripting in general.
+ZCZC W05 30 L25 C-language including Make.
+ZCZC W05 20 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W05 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 35 L40 TXT/ related in general.
+ZCZC W05 30 L64 Helping a friend (OS related problem)
 ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 40 L01 SCELE/Discord related
 ZCZC W04 20 L03 GitHub and git related, including commit, push, pull
